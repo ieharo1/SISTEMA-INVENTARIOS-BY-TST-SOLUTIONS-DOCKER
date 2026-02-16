@@ -62,11 +62,15 @@ docker-compose down
 2. Ajustar variables de entorno
 3. Ejecutar `docker-compose up -d`
 
+---
+
 ## 📄 Licencia
 
 MIT — contribuciones bienvenidas 🚀
 
 ---
+
+## 💻 Creado Por
 
 🧑‍💻 Isaac Haro
 
@@ -76,7 +80,3 @@ Isaac Esteban Haro Torres
 - 📧 zackharo1@gmail.com
 - 📱 098805517
 - 💻 [GitHub](https://github.com/ieharo1)
-
-Licencia
-
-MIT — contribuciones bienvenidas 🚀
