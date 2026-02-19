@@ -1,4 +1,4 @@
-#  TST SOLUTIONS - Sistema de Inventarios By TST Solutions
+# 🟢 TST SOLUTIONS - Sistema de Inventarios By TST Solutions
 
 **Sistema de Inventarios By TST Solutions** es una plataforma web de gestion de inventarios desarrollada por **TST Solutions** ("Te Solucionamos Todo").
 
@@ -139,13 +139,13 @@ Credenciales iniciales (si no existen):
 
 ---
 
-##  Licencia
+## 📄 Licencia
 
 © 2026 Sistema de Inventarios By TST Solutions - Todos los derechos reservados.
 
 ---
 
-## ‍ Desarrollado por TST SOLUTIONS
+## 👨‍💻 Desarrollado por TST SOLUTIONS
 
 *Technology that works. Solutions that scale.*
 
